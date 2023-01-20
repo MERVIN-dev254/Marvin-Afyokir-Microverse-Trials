@@ -1,0 +1,11 @@
+img{
+width: 150px;
+}
+
+#header{
+    display: flex;
+    width: 100%;
+}
+#nav-bar{ 
+    display:flex 
+}

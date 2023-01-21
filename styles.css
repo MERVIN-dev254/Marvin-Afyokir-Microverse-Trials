@@ -20,8 +20,13 @@
         text-decoration: none;
         color: blue;
     }
+<<<<<<< HEAD
      p, h2, iframe, form{
         margin: 18px;
+=======
+     p, h2, iframe{
+        margin: 28px;
+>>>>>>> Ayfokir
     } 
     
     @media(max-width:780px){

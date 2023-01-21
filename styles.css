@@ -20,8 +20,8 @@
         text-decoration: none;
         color: blue;
     }
-     p, h2, iframe{
-        margin-left: 18px;
+     p, h2, iframe, form{
+        margin: 18px;
     } 
     
     @media(max-width:780px){
